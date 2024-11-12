@@ -80,8 +80,7 @@ return 0;
 ## OUTPUT
 ![image](https://github.com/user-attachments/assets/3edaa144-0763-4f84-a2da-b43bff14ed51)
 
-![Uploading image.png…]()
-
+![image](https://github.com/user-attachments/assets/7c4baec8-c7d1-4efe-a563-b804057b6c5a)
 
 
 # RESULT:
